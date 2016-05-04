@@ -1,0 +1,14 @@
+{
+    "name": "starter/category-bundle",
+    "description": "Provide a basic category entity",
+    "authors": [
+        {
+            "name": "emillo",
+            "email": "emil.the.studious@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Starter\\CategoryBundle\\": "" }
+    },
+    "require": {}
+}
