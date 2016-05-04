@@ -1,0 +1,4 @@
+services:
+#    starter_category.example:
+#        class: Starter\CategoryBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

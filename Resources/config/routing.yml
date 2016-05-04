@@ -1,0 +1,3 @@
+starter_category_homepage:
+    path:     /
+    defaults: { _controller: StarterCategoryBundle:Default:index }
