@@ -10,5 +10,7 @@
     "autoload": {
         "psr-4": { "Starter\\CategoryBundle\\": "" }
     },
-    "require": {}
+    "require": {
+        "doctrine/orm": "^2.5"
+    }
 }

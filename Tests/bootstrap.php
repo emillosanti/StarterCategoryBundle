@@ -19,3 +19,5 @@ EOT;
     echo PHP_EOL . PHP_EOL . __DIR__ . '/../vendor/autoload.php';
     exit(1);
 }
+
+\Doctrine\Common\Annotations\AnnotationRegistry::registerLoader('class_exists');
